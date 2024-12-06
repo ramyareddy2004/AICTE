@@ -15,4 +15,4 @@
 `somthing here`
 
 
-[Github  Links](https://github.com)
+[Git  Links](https://github.com)
